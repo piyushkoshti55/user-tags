@@ -22,14 +22,6 @@ Custom User Tags is a WordPress plugin that allows administrators to assign and 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Navigate to Users → User Tags to start managing tags.
 
-== Frequently Asked Questions ==
-
-= Can I add tags to users while creating a new user? =
-Yes, you can select user tags when creating or editing a user profile.
-
-= Does this plugin support role-based tag restrictions? =
-Currently, it does not, but it can be added in future updates.
-
 == Screenshots ==
 
 1. screenshot-1.png - View and manage user tags under Users > User Tags
